@@ -1,4 +1,4 @@
-## Secondary Index in DynamoDB
+## Indexes in DynamoDB - Part 1
 
 ### 1. What Is a Secondary Index? 
 
